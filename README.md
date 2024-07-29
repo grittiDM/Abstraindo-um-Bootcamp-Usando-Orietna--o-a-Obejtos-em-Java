@@ -1,7 +1,7 @@
 ### Referências
 
 O desafio é oriundo do curso de Desenvolvimento Back-end em Java da plataforma DIO(www.dio.me) em colaboração com o Santander
-https://github.com/falvojr/lab-banco-digital-oo
+https://github.com/cami-la/desafio-poo-dio?tab=readme-ov-file
 
 ## Minhas redes de contato
 
